@@ -2,7 +2,7 @@
 
 A responsive personal portfolio website built with React and Vite, featuring a modern glassmorphism design with smooth animations.
 
-![Portfolio Website Screenshot](screenshot.png)
+![Portfolio Website Screenshot](https://github.com/Jesjsssi/react-portofolio/blob/main/portofolio.png)
 
 ## Features
 
